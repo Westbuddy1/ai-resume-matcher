@@ -34,17 +34,17 @@ AI-powered application that analyzes resumes and matches them with job descripti
 
 ai-resume-matcher/
 ├── backend/
-│   ├── main.py
-│   ├── matcher.py
-│   ├── resume_parser.py
-│   └── requirements.txt
+├── main.py
+├── matcher.py
+├── resume_parser.py
+    └── requirements.txt
 ├── frontend/
-│   ├── index.html
-│   ├── app.js
-│   └── style.css
+    ├── index.html
+    ├── app.js
+    └── style.css
 ├── examples/
-│   ├── sample_resume.txt
-│   └── job_description.txt
+    ├── sample_resume.txt
+    └── job_description.txt
 ├── .gitignore
 ├── docker-compose.yml
 └── README.md
