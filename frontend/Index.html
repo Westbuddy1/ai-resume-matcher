@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Resume Matcher</title>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>🤖 AI Resume Matcher</h1>
+    <p class="subtitle">
+      Paste your resume and a job description to see how well they match
+    </p>
+
+    <!-- Resume Input -->
+    <textarea
+      id="resume"
+      placeholder="Paste your resume text here..."
+    ></textarea>
+
+    <!-- Job Description Input -->
+    <textarea
+      id="job"
+      placeholder="Paste the job description here..."
+    ></textarea>
+
+    <!-- Match Button -->
+    <button id="matchBtn">Analyze Match</button>
+
+    <!-- Result -->
+    <div id="result"></div>
+  </div>
+
+  <!-- Script -->
+  <script src="app.js"></script>
+</body>
+</html>
