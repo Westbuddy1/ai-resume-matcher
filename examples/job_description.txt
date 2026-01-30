@@ -1,0 +1,9 @@
+Job Title: AI Software Engineer
+
+We are looking for an experienced software engineer to join our AI team. The candidate will work on building machine learning models and REST APIs.
+
+Required Skills:
+- Python, FastAPI
+- NLP and ML experience
+- Docker, Git
+- Experience with embeddings or semantic search
