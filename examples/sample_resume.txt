@@ -1,0 +1,19 @@
+John Doe
+Email: john.doe@example.com
+Phone: 123-456-7890
+
+Professional Summary:
+Software engineer with 3 years of experience in Python, AI, and web development. Skilled in FastAPI, machine learning, and NLP.
+
+Skills:
+- Python, JavaScript
+- FastAPI, Flask
+- Machine Learning, NLP, Sentence Transformers
+- Docker, Git, CI/CD
+- SQL, MongoDB
+
+Experience:
+Software Engineer at TechCorp (2021-2024)
+- Developed REST APIs using FastAPI
+- Built ML models for text analysis
+- Containerized applications with Docker
