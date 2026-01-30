@@ -31,7 +31,6 @@ AI-powered application that analyzes resumes and matches them with job descripti
 | Containerization | Docker, Docker Compose |
 
 ---
-
  📂 Repository Structure
 ai-resume-matcher/
 ├── backend/
